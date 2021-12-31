@@ -1,6 +1,6 @@
 {
   "Courses": [
-    { "name":"JavaScript" , "Coin": 700 },
+    { "name":"JavaScript" , "Coin": 800 },
     { "name":"PHP" , "Coin": 700 },
     { "name":"Python" , "Coin": 700 }] 
 }
