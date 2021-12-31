@@ -1,0 +1,6 @@
+{
+  "Courses": [
+    { "name":"JavaScript" , "Coin": 700 },
+    { "name":"PHP" , "Coin": 700 },
+    { "name":"Python" , "Coin": 700 }] 
+}
